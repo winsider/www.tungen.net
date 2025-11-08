@@ -1,1 +1,1 @@
-// intentionally empty
+// no JS needed
