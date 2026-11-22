@@ -1,2 +1,2 @@
-
-Oppdatert versjon der OpenStreetMap-kartet zoomer inn mot Stange-området (ca. 60.72N, 11.19E) med markør.
+# www.tungen.net
+Midlertidig landingsside for TUNGENs lagerseksjon i Næringsparkvegen 47, Hamar Næringspark. Statisk nettsted publisert med GitHub Pages.
